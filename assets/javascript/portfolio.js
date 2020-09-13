@@ -13,7 +13,7 @@
         var links = [
             {
                 name: 'twitter',
-                link: 'https://twitter.com/Mattyeh6'
+                link: 'https://twitter.com/_Mattyeh'
             },
                 
             {
